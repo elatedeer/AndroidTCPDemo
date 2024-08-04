@@ -1,14 +1,14 @@
-tv/higlobal/tcpdemo/TaskCenter.java
- tv.higlobal.tcpdemo.TaskCenter
- tv.higlobal.tcpdemo.TaskCenter$1
- tv.higlobal.tcpdemo.TaskCenter$2
- tv.higlobal.tcpdemo.TaskCenter$OnReceiveCallbackBlock
- tv.higlobal.tcpdemo.TaskCenter$OnServerConnectedCallbackBlock
- tv.higlobal.tcpdemo.TaskCenter$OnServerDisconnectedCallbackBlock
-tv/higlobal/tcpdemo/BuildConfig.java
- tv.higlobal.tcpdemo.BuildConfig
-tv/higlobal/tcpdemo/MainActivity.java
- tv.higlobal.tcpdemo.MainActivity
- tv.higlobal.tcpdemo.MainActivity$1
- tv.higlobal.tcpdemo.MainActivity$2
- tv.higlobal.tcpdemo.MainActivity$3
+com/deer/tcpdemo/TaskCenter.java
+ com.deer.tcpdemo.TaskCenter
+ com.deer.tcpdemo.TaskCenter$1
+ com.deer.tcpdemo.TaskCenter$2
+ com.deer.tcpdemo.TaskCenter$OnReceiveCallbackBlock
+ com.deer.tcpdemo.TaskCenter$OnServerConnectedCallbackBlock
+ com.deer.tcpdemo.TaskCenter$OnServerDisconnectedCallbackBlock
+com/deer/tcpdemo/BuildConfig.java
+ com.deer.tcpdemo.BuildConfig
+com/deer/tcpdemo/MainActivity.java
+ com.deer.tcpdemo.MainActivity
+ com.deer.tcpdemo.MainActivity$1
+ com.deer.tcpdemo.MainActivity$2
+ com.deer.tcpdemo.MainActivity$3

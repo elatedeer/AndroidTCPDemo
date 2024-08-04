@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "tv.higlobal.tcpdemo"
+        applicationId "com.deer.tcpdemo"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1

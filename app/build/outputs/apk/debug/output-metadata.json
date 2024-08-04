@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "tv.higlobal.tcpdemo",
+  "applicationId": "com.deer.tcpdemo",
   "variantName": "processDebugResources",
   "elements": [
     {

@@ -1,0 +1,4 @@
+tv/higlobal/tcpdemo/ExampleInstrumentedTest.java
+ tv.higlobal.tcpdemo.ExampleInstrumentedTest
+com/deer/tcpdemo/test/BuildConfig.java
+ com.deer.tcpdemo.test.BuildConfig
